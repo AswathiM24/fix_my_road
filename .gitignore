@@ -12,6 +12,7 @@ db.sqlite3
 .env
 venv/
 env/
+road-env/
 
 # OS
 .DS_Store
